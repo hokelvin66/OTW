@@ -34,4 +34,5 @@ Level29:  5b90576bedb2cc04c86a9e924ce42faf (mkdir /tmp/gitgitbandit29 | git clon
 Level30: 47e603bb428404d265f59c42920d81e5 (mkdir /tmp/gitgitbandit30 | git clone ssh://bandit30-git@localhost/home/bandit30-git/repo | (enter password) | git tag (observe) | git show secret)
 Level31: 56a9bf19c63d650ce78e6ec0354ee45e (mkdir /tmp/gitgitbandit30 | git clone ssh://bandit30-git@localhost/home/bandit30-git/repo | (enter password) | nano key.txt (enter some text) | git add key.txt -f (force) | git commit | git push (observe)
 Level32: c9c3199ddf4121b10cf581a98d51caee ($0 (get into bash using shell) | cat //etc/bandit_pass/bandit33)
+Level33: (awaiting)
 
